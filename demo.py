@@ -1,7 +1,11 @@
-def my_funtion():
+"""
+This module prints Hello World.
+"""
 
-    a = 5
-    return a
+def main():
+    """Main function to print Hello World."""
+    print("Hello World")
 
 
-my_funtion()
+if __name__ == '__main__':
+    main()
