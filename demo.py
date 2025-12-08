@@ -2,6 +2,7 @@
 This module prints Hello World.
 """
 
+
 def main():
     """Main function to print Hello World."""
     print("Hello World")
